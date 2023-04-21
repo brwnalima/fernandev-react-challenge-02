@@ -1,4 +1,3 @@
-
 export function login({ email, password}) 
 /* é um objeto com dois componentes e não um atributo */ {
   const delay = (0.2  + Math.random() * 2) * 1000;
