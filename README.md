@@ -1,6 +1,10 @@
-# [TESTE DO FERNANDEV](https://www.youtube.com/watch?v=NAtf3T9gG7s)
+# [TESTE DO FERNANDEV](https://www.youtube.com/watch?v=NAtf3T9gG7s) 💻
 
 ## React Interview Challenge #02
+
+<p align="center">
+    <img src=https://github.com/brwnalima/fernandev-react-challenge-02/blob/main/public/gif.gif?raw=true" alt="Descrição do GIF">
+</p>
 
 <hr> 
 
