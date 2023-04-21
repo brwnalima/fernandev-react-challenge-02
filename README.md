@@ -22,6 +22,8 @@
 * README Detalhado. ✅</p>
 * Animations ✅</p>
 
+#### SENHA PARA A VALIDAÇÃO: Password123
+
 ### Clone este repositório:
 
 ```bash 
