@@ -48,6 +48,7 @@ export default function LoginForm() {
     <div className='wrapper'>
       <div className='login-form'>
         <h1>LOGIN</h1>
+        
         {/* Coloque a mensagem de erro de login na div abaixo. Mostre a div somente se houver uma mensagem de erro. */}
         {error && <div className='errorMessage'>{error}</div>}
         <div className='row'>
