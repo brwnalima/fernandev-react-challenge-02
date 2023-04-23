@@ -27,7 +27,7 @@
 ### Clone este repositório:
 
 ```bash 
-git clone https://github.com/brwnalima/fernandev-react-challenge-02
+git clone https://github.com/brwnalima/login-form-test
 ```
 
 ### Baixe as dependências utilizadas na aplicação:
